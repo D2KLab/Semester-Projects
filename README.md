@@ -5,6 +5,7 @@ Instructions and examples for Semester Projects at EURECOM
 
 * **Share** your report and slides since they are in progress, so that we can comment on them.
   * This will give you the possibility to improve them BEFORE the defense, to have a better grade.
+  * Use shared drives! Attaching documents to emails is a bad practice for storage and environmental reasons.
 * **Cite properly** figures and text coming from other works in both slides and report.
   * In the report, it would be better to have a proper reference section at the end, and refers to papers using numbers (e.g. `[1]`) or authors' names and year (e.g. `(Grover et al, 2016)`).
   * The references should precisely mention authors' names, title, publication venue, year. Example:
