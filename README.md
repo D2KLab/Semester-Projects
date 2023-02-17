@@ -23,6 +23,7 @@ Instructions and examples for Semester Projects at EURECOM
 
 ## Presentation
 
+* The presentation should last **30 minutes** and is followed by a round of questions.
 * Be **didactical**. The audience may not be familiar with your project and with the topic you studied. Be sure to define precisely all specific terms.
 * Add **slides number**. They will help who is listening to you to make precise questions during the defense.
 * **Cite properly** figures and text coming from other works in both slides and report.
